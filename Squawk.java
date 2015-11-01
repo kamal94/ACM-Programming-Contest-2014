@@ -4,6 +4,14 @@ import java.util.Scanner;
 
 /**
  * Created by Kamal and Kyle Synden on 10/31/15.
+ * This program was written during a timed contest: the ACM ICPC contest 2015
+ * This represents the work of the Orange Hornets team during that contest.
+ * Orange Hornets team members:
+ * 	Sarah Manski
+ * 	Kamal Kamalaldin
+ * 	Kyle Sunden
+ *
+ * Kyle Sunden: "In a programming contest, there is no good coding"
  */
 public class Squawk {
 
